@@ -5,4 +5,5 @@ My To-Do List
 4. Complete introductory readings
 5. Form or join studt groups
 6. Schedule weekly coding pratice sessions
-
+7. Back up all project files and code repositories
+8. Attend at least one tech workshop
