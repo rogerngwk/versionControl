@@ -7,3 +7,8 @@ My To-Do List
 6. Schedule weekly coding pratice sessions
 7. Back up all project files and code repositories
 8. Attend at least one tech workshop
+9. Track grades regularly
+10. Build a personal portfolio project
+11. Apply for internships and certfications
+12. Conduct a mile-semester review
+
